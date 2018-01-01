@@ -3,5 +3,6 @@
     "python.autoComplete.extraPaths": [
         "/Users/tyler/tensorflow/lib/python3.4", 
         "/Users/tyler/tensorflow/lib/python3.4/site-packages"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
