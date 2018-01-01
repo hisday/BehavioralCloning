@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/tyler/tensorflow/bin/python3",
+    "python.autoComplete.extraPaths": [
+        "/Users/tyler/tensorflow/lib/python3.4", 
+        "/Users/tyler/tensorflow/lib/python3.4/site-packages"
+    ]
+}
